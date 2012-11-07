@@ -12,3 +12,4 @@ Cool/Ugly features of Programming Language:
   6. First class streaming/pipeline, can borrow Feature from system tool 
   7. Syntax tree Macro to support DSL 
   8. Multiple core running, a easy way is to pipe to a C program
+  9. First class testing

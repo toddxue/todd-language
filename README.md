@@ -13,3 +13,6 @@ Cool/Ugly features of Programming Language:
   7. Syntax tree Macro to support DSL 
   8. Multiple core running, a easy way is to pipe to a C program
   9. First class testing
+
+The closest language, which matches all above rules, turns out to be UNIX shell language, as always :) the one we use daily.
+
